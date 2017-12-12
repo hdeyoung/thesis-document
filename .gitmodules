@@ -1,0 +1,3 @@
+[submodule "tufte-thesis"]
+	path = tufte-thesis
+	url = https://github.com/hdeyoung/tufte-thesis
